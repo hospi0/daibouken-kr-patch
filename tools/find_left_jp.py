@@ -58,6 +58,16 @@ def main():
         if B <= v < B + len(o): cand.add(v - B)
     for i in range(1, len(o)):                               # ② 0 다음 시작
         if o[i - 1] == 0 and o[i]: cand.add(i)
+    # ④ 앞이 수치 바이트인 표 항목(鋼鉄 — 0·포인터·붙은 문자열 어느 것도 아님): 가나·JIS 1수준 한자 2자 이상 + 0
+    def lvl1(c, t):
+        code = (c << 8) | t
+        return 0x829F <= code <= 0x82F1 or 0x8340 <= code <= 0x8396 or 0x889F <= code <= 0x9872 or code in (0x8140, 0x815B)
+    ends = {}
+    for a in range(0, len(o) - 6):
+        j = a; k = 0
+        while j + 1 < len(o) and lvl1(o[j], o[j + 1]): j += 2; k += 1
+        if k >= 2 and j < len(o) and o[j] == 0 and j not in ends: ends[j] = a
+    cand |= set(ends.values())
     out = {}
     for a in sorted(cand):
         r = read(a)

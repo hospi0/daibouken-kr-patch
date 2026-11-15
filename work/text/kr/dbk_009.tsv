@@ -7,7 +7,7 @@ X0398	exe	0.BIN@0x3D328	4B	ﾑs惜	ﾑs惜
 X0399	exe	0.BIN@0x3D332	4B	ﾑs税	ﾑs税
 X0400	exe	0.BIN@0x3D33C	4B	ﾑq醒	ﾑq醒
 X0401	exe	0.BIN@0x3D53E	10B	籌ﾀﾞｲﾎﾞｰｹﾝ	대모험
-X0402	exe	0.BIN@0x3EDA0	7B	 戻　る	 돌아가기
+X0402	exe	0.BIN@0x3EDA0	7B	 戻　る	 뒤　로
 X0403	exe	0.BIN@0x3EDA8	7B	 写　す	 복사
 X0404	exe	0.BIN@0x3EDB0	7B	 消　す	 삭제
 X0405	exe	0.BIN@0x3EDC4	24B	空き容量が　　　必要です	빈 용량이　　　필요합니다
@@ -17,7 +17,7 @@ X0408	exe	0.BIN@0x3F2D0	32B	　　　　の全ての記録を消すことが	　
 X0409	exe	0.BIN@0x3F2F4	16B	できませんでした	없었습니다
 X0410	exe	0.BIN@0x3F308	28B	保存データ管理画面で全部消す	저장 데이터 관리 화면에서 전부 지우기
 X0411	exe	0.BIN@0x3F328	26B	（初期化）を選んでください	（초기화）를 선택해 주세요
-X0412	exe	0.BIN@0x3F370	8B	ｶｰﾄﾘｯｼﾞ 	카트리지 
+X0412	exe	0.BIN@0x3F370	8B	ｶｰﾄﾘｯｼﾞ 	카트리지
 X0413	exe	0.BIN@0x3F574	8B	記録　：	기록　：
 X0414	exe	0.BIN@0x3F580	6B	１２３	１２３
 X0415	exe	0.BIN@0x3F590	16B	記録がありません	기록이 없습니다

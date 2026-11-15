@@ -91,6 +91,15 @@ def name_align(k, s, bud, errs, src):
             if p < NAME_CUT < p + w: return True
             p += w
         return False
+    # ★인물 이름: 전투 동료 정보에는 앞 8 B 만 복사됨(RAM 0x607E730, «리온 아백ｳ 공격») → 성 앞을 공백으로 채워
+    #   성이 9번째 바이트부터 시작하게 = 전투에선 이름만(«리온»), 전체 이름 화면에선 «리온　　아벤추라»
+    if ' ' in s and k.startswith(('H', 'X0005', 'X0006')):
+        first, rest = s.split(' ', 1)
+        fb = sum(1 if ord(c) < 0x80 else 2 for c in first)
+        if fb < NAME_CUT:
+            pad = NAME_CUT - fb
+            t = first + '　' * (pad // 2) + ' ' * (pad % 2) + rest
+            if sum(1 if ord(c) < 0x80 else 2 for c in t) <= bud: return t
     if not cuts(s): return s
     t = s.replace(' ', '　', 1)
     nb = sum(1 if ord(c) < 0x80 else 2 for c in t)

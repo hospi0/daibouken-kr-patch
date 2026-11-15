@@ -114,7 +114,7 @@ M0035	name	MONSNAME.DAT@0x142	8B	トロンバ	트롬바
 M0036	name	MONSNAME.DAT@0x14B	6B	トンヌ	톤누
 M0037	name	MONSNAME.DAT@0x152	6B	プロモ	프로모
 H0001	human	HUMAN.DAT@0x0	12B	ﾘｵﾝ･ｱﾍﾞﾝﾁｭｰﾗ	리온 아벤추라
-H0002	human	HUMAN.DAT@0x1E	12B	ﾄﾚﾋﾞｰﾙ･ｴｽﾃﾊﾞ	트레비르 에스테반
+H0002	human	HUMAN.DAT@0x1E	12B	ﾄﾚﾋﾞｰﾙ･ｴｽﾃﾊﾞ	트레비르에스테반
 H0003	human	HUMAN.DAT@0x3C	9B	ﾛｳｨｰﾅ･ﾌｪﾛ	로위나 페로
 H0004	human	HUMAN.DAT@0x5A	9B	ｱﾄｽ･ｽﾃﾌｧﾉ	아토스 스테파노
 H0005	human	HUMAN.DAT@0x78	11B	ｶﾞｯﾄﾞ･ｱﾙﾌｫﾝ	가드 알폰
@@ -304,7 +304,7 @@ X0002	exe	0.BIN@0x734	16B	ＮＥＷ　ＧＡＭＥ	ＮＥＷ　ＧＡＭＥ
 X0003	exe	0.BIN@0x748	16B	ＣＯＮＴＩＮＵＥ	ＣＯＮＴＩＮＵＥ
 X0004	exe	0.BIN@0x798	30B	あなたの名前を入力してください	당신의 이름을 입력해 주세요
 X0005	exe	0.BIN@0x12E0	12B	ﾘｵﾝ･ｱﾍﾞﾝﾁｭｰﾗ	리온 아벤추라
-X0006	exe	0.BIN@0x1300	10B	ﾋﾞｰﾙ･ｴｽﾃﾊﾞ	트레비르 에스테반
+X0006	exe	0.BIN@0x1300	10B	ﾋﾞｰﾙ･ｴｽﾃﾊﾞ	트레비르에스테반
 X0007	exe	0.BIN@0x131C	10B	バラーボ号	바라보호
 X0008	exe	0.BIN@0x166C	32B	リオン達は餓死してしまった・・・	리온 일행은 굶어 죽고 말았다・・・
 X0009	exe	0.BIN@0x1690	12B	が沈没した！	 침몰했다!

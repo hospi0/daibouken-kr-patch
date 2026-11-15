@@ -77,6 +77,9 @@ def slot_fix(fn, k, off, bud, kd, b):
     return off, bud, 'normal'
 
 
+# 숫자·값 앞 머리말: 게임이 «원문 길이 위치»에 숫자를 써 넣음 → 정확히 원문 길이(짧으면 공백 채움, 길면 안 됨)
+#   (2026-11-15 «전원G가» — 全員で 를 4 B 로 줄였더니 숫자가 0 뒤로 가서 안 보임)
+EXACT_LEN = {'X0157', 'X0199', 'X0200', 'X0211', 'X0036', 'X0290'}
 # 반각 괄호를 그대로 둘 칸(전각으로 바꾸면 뒤 글자 찍는 위치가 어긋남): 전투 «作戦(» + 약자 한 글자 + «)»
 NO_NORM = {'XE106'}
 NAME_CUT = 8      # 전투 화면 오른쪽 위 이름 칸은 앞 8 B 만 찍음(트레비르=8 B 멀쩡, «리온 아벤추라»는 8번째에서 «벤»이 반 토막)
@@ -302,7 +305,7 @@ def main():
             # 원문이 공백으로 끝을 채운 칸(배·대포 이름 «ケッチ　　», 메뉴 «戦闘　　»)은 원문 글 길이까지 반각 공백으로 채움
             #   — 뒤에 이어 찍는 값(가격) 열이 원문처럼 맞는다. 그 밖은 0(무기 이름은 item_layout 이 16 B 꽉 채움)
             ob = bytes(b[off:off + bud]).split(b'\0')[0]
-            if kd == 'exe' and (ob.endswith((b' ', b'\x81\x40')) or 0x60340 <= off < 0x60520) and len(e) < len(ob):
+            if kd == 'exe' and (ob.endswith((b' ', b'\x81\x40')) or 0x60340 <= off < 0x60520 or k in EXACT_LEN) and len(e) < len(ob):
                 e = e + b' ' * (len(ob) - len(e))
             b[off:off + bud] = e + b'\0' * (bud - len(e))
         if fn == '0.BIN':

@@ -131,20 +131,20 @@ H0015	human	HUMAN.DAT@0x1A4	11B	ｾﾗ･ｱﾍﾞﾝﾁｭｰﾗ	세라 아벤�
 H0016	human	HUMAN.DAT@0x1C2	13B	ﾁｬﾘﾌｫｰ･ｺﾛﾝﾌﾞｽ	차리포 콜럼버스
 H0017	human	HUMAN.DAT@0x1E0	9B	ｾﾍﾞ･ｱﾝﾄﾞﾚ	세베 앙드레
 H0018	human	HUMAN.DAT@0x1FE	10B	ｼﾞｬﾝ･ﾄﾞﾘｰｱ	장 도리아
-H0019	human	HUMAN.DAT@0x21C	10B	ｶﾙﾛｽ･ｽﾃﾌｧﾉ	카를로스 스테파노
+H0019	human	HUMAN.DAT@0x21C	10B	ｶﾙﾛｽ･ｽﾃﾌｧﾉ	카를로스스테파노
 H0020	human	HUMAN.DAT@0x23A	7B	ﾛｲ･ｶﾒｰﾙ	로이 카메르
 H0021	human	HUMAN.DAT@0x258	10B	ﾍﾘｵ･ｷｼﾞｰｵﾙ	헬리오 키지올
 H0022	human	HUMAN.DAT@0x276	10B	ﾏｯｸ･ｱﾝﾄﾞﾚｱ	맥 안드레아
 H0023	human	HUMAN.DAT@0x294	12B	ｱﾝﾄﾞﾚｱ･ｱﾙﾌｫﾝ	안드레아 알폰
 H0024	human	HUMAN.DAT@0x2B2	7B	ﾆｯｸ･ﾛｰﾝ	닉 론
 H0025	human	HUMAN.DAT@0x2D0	9B	ｼﾞｬﾝ･ｴﾃﾙﾅ	장 에테르나
-H0026	human	HUMAN.DAT@0x2EE	14B	ｱﾒﾘｺﾞ･ﾌﾞｪｽﾌﾟｯﾁ	아메리고 베스푸치
+H0026	human	HUMAN.DAT@0x2EE	14B	ｱﾒﾘｺﾞ･ﾌﾞｪｽﾌﾟｯﾁ	아메리고베스푸치
 H0027	human	HUMAN.DAT@0x30C	9B	ｴﾙﾅﾝ･ﾄﾘｵｽ	에르난 트리오스
 H0028	human	HUMAN.DAT@0x32A	11B	ｼﾞｮｱﾝ･ﾗｺｽﾃｨ	조안 라코스티
 H0029	human	HUMAN.DAT@0x348	9B	ﾄﾙﾏﾝ･ﾔｾｰﾙ	트루만 야셀
 H0030	human	HUMAN.DAT@0x366	8B	ｱｰﾙ･ﾊｼﾐｰ	아르 하시미
 H0031	human	HUMAN.DAT@0x384	10B	ｳｿﾞﾘﾝ･ﾏﾙｻﾞ	우조린 마르자
-H0032	human	HUMAN.DAT@0x3A2	12B	ﾀﾞﾗﾆｱ･ﾓﾊﾒｯﾄﾞ	다라니아 모하메드
+H0032	human	HUMAN.DAT@0x3A2	12B	ﾀﾞﾗﾆｱ･ﾓﾊﾒｯﾄﾞ	다라니아모하메드
 H0033	human	HUMAN.DAT@0x3C0	10B	ｳｽﾞﾙﾝ･ﾐｹﾞﾙ	우즈룬 미겔
 H0034	human	HUMAN.DAT@0x3DE	9B	ｹﾞﾙﾄ･ﾏｲﾔｰ	게르트 마이어
 H0035	human	HUMAN.DAT@0x3FC	7B	ｼﾞｬﾝ･ｱﾘ	장 알리
@@ -170,7 +170,7 @@ H0054	human	HUMAN.DAT@0x62A	6B	}㈹Ｊz	}㈹Ｊz
 H0055	human	HUMAN.DAT@0x636	8B	ﾏﾆｴﾙ･ﾛﾒｵ	마니엘 로메오
 H0056	human	HUMAN.DAT@0x654	9B	ﾘｶﾞ･ﾛｰﾝｽﾞ	리가 론즈
 H0057	human	HUMAN.DAT@0x672	12B	ｳﾞｧｽｺ･ﾀﾞ･ｶﾞﾏ	바스코 다 가마
-H0058	human	HUMAN.DAT@0x690	13B	ﾊﾞﾙﾄﾛﾒｳ･ﾃﾞｨｱｽ	바르톨로뮤 디아스
+H0058	human	HUMAN.DAT@0x690	13B	ﾊﾞﾙﾄﾛﾒｳ･ﾃﾞｨｱｽ	바르톨로뮤디아스
 H0059	human	HUMAN.DAT@0x6A2	5B	㎏穆x	㎏穆x
 H0060	human	HUMAN.DAT@0x6AE	12B	ﾏｾﾞﾗﾝ･ﾊﾞﾙﾎﾞｱ	마젤란 발보아
 H0061	human	HUMAN.DAT@0x6C0	6B	x撃㊦s	x撃㊦s
@@ -182,7 +182,7 @@ H0066	human	HUMAN.DAT@0x708	8B	ｱﾝﾅ･ﾌｴﾚﾗ	안나 풰레라
 H0067	human	HUMAN.DAT@0x71A	5B	桝s喧	桝s喧
 H0068	human	HUMAN.DAT@0x726	9B	ﾔｺﾌﾞ･ｾｰﾙｿ	야코브 세르소
 H0069	human	HUMAN.DAT@0x738	6B	走倦挿	走倦挿
-H0070	human	HUMAN.DAT@0x744	11B	ﾌﾗﾝｼｽｺ･ﾐｴｰﾙ	프란시스코 미에르
+H0070	human	HUMAN.DAT@0x744	11B	ﾌﾗﾝｼｽｺ･ﾐｴｰﾙ	프란시스코미에르
 H0071	human	HUMAN.DAT@0x762	8B	ﾏｯｸｽ･ｱﾛﾝ	맥스 아론
 H0072	human	HUMAN.DAT@0x774	6B	荘荘荘	荘荘荘
 H0073	human	HUMAN.DAT@0x780	11B	ﾏﾘｱ･ｴﾄﾞﾜｰﾄﾞ	마리아 에드워드
@@ -192,7 +192,7 @@ H0076	human	HUMAN.DAT@0x7CE	6B	憲荘迎	憲荘迎
 H0077	human	HUMAN.DAT@0x7DA	10B	ｷｬﾋﾞﾝ･ﾄﾚﾔｰ	캐빈 트레이어
 H0078	human	HUMAN.DAT@0x7F8	9B	ﾅﾀﾘ･ﾌｫﾝｽﾘ	나탈리 폰슬리
 H0079	human	HUMAN.DAT@0x80A	6B	蔓桝膜	蔓桝膜
-H0080	human	HUMAN.DAT@0x816	12B	ﾌﾗﾝｼｽｺ･ｵｰﾘﾄﾞ	프란시스코 오리드
+H0080	human	HUMAN.DAT@0x816	12B	ﾌﾗﾝｼｽｺ･ｵｰﾘﾄﾞ	프란시스코오리드
 H0081	human	HUMAN.DAT@0x828	5B	ｌｪ膜	ｌｪ膜
 H0082	human	HUMAN.DAT@0x834	11B	ｼﾞｮｼﾞｱ･ｹﾞﾙﾄ	조지아 게르트
 H0083	human	HUMAN.DAT@0x846	4B	岷血	岷血

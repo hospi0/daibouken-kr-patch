@@ -77,6 +77,28 @@ def slot_fix(fn, k, off, bud, kd, b):
     return off, bud, 'normal'
 
 
+# 반각 괄호를 그대로 둘 칸(전각으로 바꾸면 뒤 글자 찍는 위치가 어긋남): 전투 «作戦(» + 약자 한 글자 + «)»
+NO_NORM = {'XE106'}
+NAME_CUT = 8      # 전투 화면 오른쪽 위 이름 칸은 앞 8 B 만 찍음(트레비르=8 B 멀쩡, «리온 아벤추라»는 8번째에서 «벤»이 반 토막)
+
+
+def name_align(k, s, bud, errs, src):
+    """이름이 NAME_CUT 바이트 경계에서 2 B 글자를 반으로 자르면, 첫 반각 공백을 전각으로(모든 글자 2 B 단위 정렬)."""
+    def cuts(t):
+        p = 0
+        for c in t:
+            w = 1 if ord(c) < 0x80 else 2
+            if p < NAME_CUT < p + w: return True
+            p += w
+        return False
+    if not cuts(s): return s
+    t = s.replace(' ', '　', 1)
+    nb = sum(1 if ord(c) < 0x80 else 2 for c in t)
+    if ' ' in s and nb <= bud and not cuts(t): return t
+    errs.append((k, src, '이름이 %d B 경계에서 글자를 자름(전투 화면 이름 칸): %s' % (NAME_CUT, s)))
+    return s
+
+
 def item_layout(k, s, orig, errs, src):
     """무기·방어구 = 이름 + 빈칸 + 원래 «+n» 3 B 를 16 B 에(+ 는 13번째 바이트). 그 밖 = 그대로."""
     if orig[13:14] != b'+':
@@ -175,7 +197,7 @@ def main():
         r = rows.get(k)
         if not r or r[1] == 'talk': continue
         fn, off = r[2].split('@'); off = int(off, 16); bud = int(r[3].rstrip('B'))
-        s = norm(txt)
+        s = txt if k in NO_NORM else norm(txt)
         if '／' in s: errs.append((k, src, '줄바꿈(／) 불가 칸')); continue
         inplace[fn].append((off, bud, s, r[1], k, src))
 
@@ -251,6 +273,8 @@ def main():
             off, bud, mode = slot_fix(fn, k, off, bud, kd, b)
             if mode == 'keep':
                 continue                                     # 원문 유지(세이브 설명·개발용 문구)
+            if kd == 'human' or (fn == '0.BIN' and (off in (0x12E0, 0x12FE) or (NAMETAB[0] <= off < NAMETAB[1] and (off - NAMETAB[0]) % NAMETAB[2] == 0))):
+                s = name_align(k, s, bud, errs, src)
             if kd == 'item':
                 s = item_layout(k, s, b[off:off + 16], errs, src)
                 if s is None: continue

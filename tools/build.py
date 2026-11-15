@@ -49,7 +49,9 @@ def load_extra_exe():
 EXTRA_EXE = load_extra_exe()
 # 추출기가 앞 포인터 꼬리 2 B 를 글자로 읽었거나 첫 반각 글자를 놓친 행 → 진짜 시작
 OFFSET_FIX = {'X0006': 0x12FE, 'X0013': 0x513C, 'X0222': 0x229C4, 'X0233': 0x23CB0, 'X0393': 0x3CDB8,
-              'X0598': 0x60F0F, 'X0600': 0x60F42}
+              'X0598': 0x60F0F, 'X0600': 0x60F42,
+              # 배·대포 표: 추출기가 앞 가격 바이트(00 뒤)부터 잡아 번역이 가격을 덮던 행(2026-11-15)
+              'X0484': 0x60364, 'X0486': 0x6039C, 'X0496': 0x604A4}
 # 원문 유지: 세이브 파일 설명(DAIBOKEN_0 앞 ﾀﾞｲﾎﾞｰｹﾝ — 본체 메모리 관리 화면에 그대로 나옴) · 개발용 오류문
 KEEP_IDS = {'X0401', 'X0473'}
 NAMETAB = (0x60EBA, 0x61023, 17)      # 해적·반지 이름 표: 17 B 간격, 이름 16 B + 0
@@ -264,7 +266,12 @@ def main():
                     reloc_n += 1
                     continue
                 errs.append((k, src, '%d B > 예산 %d B: %s' % (len(e), bud, s))); continue
-            b[off:off + bud] = e + b'\0' * (bud - len(e))     # 무기 이름은 item_layout 이 16 B 꽉 채움
+            # 원문이 공백으로 끝을 채운 칸(배·대포 이름 «ケッチ　　», 메뉴 «戦闘　　»)은 원문 글 길이까지 반각 공백으로 채움
+            #   — 뒤에 이어 찍는 값(가격) 열이 원문처럼 맞는다. 그 밖은 0(무기 이름은 item_layout 이 16 B 꽉 채움)
+            ob = bytes(b[off:off + bud]).split(b'\0')[0]
+            if kd == 'exe' and (ob.endswith((b' ', b'\x81\x40')) or 0x60340 <= off < 0x60520) and len(e) < len(ob):
+                e = e + b' ' * (len(ob) - len(e))
+            b[off:off + bud] = e + b'\0' * (bud - len(e))
         if fn == '0.BIN':
             if len(tail) > RELOC_MAX: errs.append(('0.BIN', '-', '옮긴 문자열 %d B > 빈 RAM %d B' % (len(tail), RELOC_MAX)))
             else:

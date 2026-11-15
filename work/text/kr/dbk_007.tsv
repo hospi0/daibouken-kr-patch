@@ -1,0 +1,343 @@
+id	종류	위치	예산	JP	KO
+T0658	talk	アイテム説明@2795	1줄·44칸	自然の状態で立方体の 純度が高い金塊	자연 상태에서 입방체인 순도 높은 금덩이
+T0659	talk	アイテム説明@2797	1줄·44칸	バラをかたどった 銀細工のブローチ	장미를 본뜬 은세공 브로치
+T0660	talk	アイテム説明@2799	1줄·44칸	銀を加工して造られたネックレス	은을 가공해 만든 목걸이
+T0661	talk	アイテム説明@2801	1줄·44칸	金細工をほどこされた 見事な置き時計	금세공이 입혀진 훌륭한 탁상시계
+T0662	talk	アイテム説明@2803	1줄·44칸	黄金の獅子が装飾された 腕輪	황금 사자로 장식된 팔찌
+T0663	talk	アイテム説明@2805	1줄·44칸	太古に滅びたという インカ帝国の王冠	태고에 멸망했다는 잉카 제국의 왕관
+C0001	name	CITY.DAT@0x1	10B	バルセロナ	바르셀로나
+C0002	name	CITY.DAT@0x25	10B	バレンシア	발렌시아
+C0003	name	CITY.DAT@0x49	10B	アルメリア	알메리아
+C0004	name	CITY.DAT@0x6D	10B	マルセイユ	마르세유
+C0005	name	CITY.DAT@0x91	8B	ジェノバ	제노바
+C0006	name	CITY.DAT@0xB5	8B	バチカン	바티칸
+C0007	name	CITY.DAT@0xD9	6B	ナポリ	나폴리
+C0008	name	CITY.DAT@0xFD	10B	サンマリノ	산마리노
+C0009	name	CITY.DAT@0x121	10B	ヴェネチア	베네치아
+C0010	name	CITY.DAT@0x145	6B	パトレ	파트라
+C0011	name	CITY.DAT@0x169	6B	アテネ	아테네
+C0012	name	CITY.DAT@0x18D	14B	イスタンブール	이스탄불
+C0013	name	CITY.DAT@0x1B1	8B	オデッサ	오데사
+C0014	name	CITY.DAT@0x1D5	12B	トレビゾンド	트레비존드
+C0015	name	CITY.DAT@0x1F9	16B	アレキサンドリア	알렉산드리아
+C0016	name	CITY.DAT@0x21D	6B	カイロ	카이로
+C0017	name	CITY.DAT@0x241	10B	タラブルス	트리폴리
+C0018	name	CITY.DAT@0x265	8B	パレルモ	팔레르모
+C0019	name	CITY.DAT@0x289	8B	サッサリ	사사리
+C0020	name	CITY.DAT@0x2AD	8B	チュニス	튀니스
+C0021	name	CITY.DAT@0x2D1	8B	アルジェ	알제
+C0022	name	CITY.DAT@0x2F5	6B	パルマ	팔마
+C0023	name	CITY.DAT@0x319	6B	セウタ	세우타
+C0024	name	CITY.DAT@0x33D	8B	リスボン	리스본
+C0025	name	CITY.DAT@0x352	2B	ｯﾀ	ｯﾀ
+C0026	name	CITY.DAT@0x361	8B	オポルト	오포르투
+C0027	name	CITY.DAT@0x385	8B	ボルドー	보르도
+C0028	name	CITY.DAT@0x3A9	8B	ブレスト	브레스트
+C0029	name	CITY.DAT@0x3CD	4B	パリ	파리
+C0030	name	CITY.DAT@0x3F1	14B	アムステルダム	암스테르담
+C0031	name	CITY.DAT@0x415	10B	ハンブルグ	함부르크
+C0032	name	CITY.DAT@0x439	6B	オスロ	오슬로
+C0033	name	CITY.DAT@0x45D	8B	ロンドン	런던
+C0034	name	CITY.DAT@0x481	8B	ダブリン	더블린
+C0035	name	CITY.DAT@0x4A5	14B	コペンハーゲン	코펜하겐
+C0036	name	CITY.DAT@0x4C9	10B	プーシキン	푸시킨
+C0037	name	CITY.DAT@0x4ED	14B	ストックホルム	스톡홀름
+C0038	name	CITY.DAT@0x511	12B	スタバンゲル	스타방게르
+C0039	name	CITY.DAT@0x535	12B	サンタマリア	산타마리아
+C0040	name	CITY.DAT@0x559	16B	ビリャシスネロス	빌랴시스네로스
+C0041	name	CITY.DAT@0x57D	10B	モンロビア	몬로비아
+C0042	name	CITY.DAT@0x5A1	12B	アンビジャン	아비장
+C0043	name	CITY.DAT@0x5C5	10B	リブルビル	리브르빌
+C0044	name	CITY.DAT@0x5E9	8B	ベンゲラ	벵겔라
+C0045	name	CITY.DAT@0x60D	12B	ケープタウン	케이프타운
+C0046	name	CITY.DAT@0x631	8B	ダーバン	더반
+C0047	name	CITY.DAT@0x646	2B	ﾔﾀ	ﾔﾀ
+C0048	name	CITY.DAT@0x655	8B	ツレアル	툴레아르
+C0049	name	CITY.DAT@0x679	12B	モザンビーク	모잠비크
+C0050	name	CITY.DAT@0x69D	6B	ブラバ	브라바
+C0051	name	CITY.DAT@0x6C1	6B	アデン	아덴
+C0052	name	CITY.DAT@0x6E5	6B	メッカ	메카
+C0053	name	CITY.DAT@0x709	14B	サントドミンゴ	산토도밍고
+C0054	name	CITY.DAT@0x72D	10B	ジャマイカ	자메이카
+C0055	name	CITY.DAT@0x751	8B	タンピコ	탐피코
+C0056	name	CITY.DAT@0x775	10B	ベラクルス	베라크루스
+C0057	name	CITY.DAT@0x799	6B	シサル	시살
+C0058	name	CITY.DAT@0x7BD	8B	トルヒヨ	트루히요
+C0059	name	CITY.DAT@0x7E1	6B	リモン	리몬
+C0060	name	CITY.DAT@0x805	8B	カラカス	카라카스
+C0061	name	CITY.DAT@0x829	10B	マラニャン	마라냥
+C0062	name	CITY.DAT@0x84D	8B	マナウス	마나우스
+C0063	name	CITY.DAT@0x871	8B	パライバ	파라이바
+C0064	name	CITY.DAT@0x895	6B	バイア	바이아
+C0065	name	CITY.DAT@0x8B9	8B	ビトリア	비토리아
+C0066	name	CITY.DAT@0x8DD	16B	リオデジャネイロ	리우데자네이루
+C0067	name	CITY.DAT@0x901	12B	リオグランデ	리우그란데
+C0068	name	CITY.DAT@0x925	12B	モンテビデオ	몬테비데오
+C0069	name	CITY.DAT@0x949	16B	ブエノスアイレス	부에노스아이레스
+C0070	name	CITY.DAT@0x96D	14B	バイアブランカ	바이아블랑카
+C0071	name	CITY.DAT@0x991	16B	プエルトデセアド	푸에르토데세아도
+M0001	name	MONSNAME.DAT@0x0	8B	アラミス	아라미스
+M0002	name	MONSNAME.DAT@0x9	6B	アロバ	아로바
+M0003	name	MONSNAME.DAT@0x10	8B	バルジェ	발제
+M0004	name	MONSNAME.DAT@0x19	6B	ベルガ	베르가
+M0005	name	MONSNAME.DAT@0x20	10B	ベンチバブ	벤치밥
+M0006	name	MONSNAME.DAT@0x2B	8B	ベニエン	베니엔
+M0007	name	MONSNAME.DAT@0x34	6B	ブレロ	브레로
+M0008	name	MONSNAME.DAT@0x3B	8B	ブロピナ	브로피나
+M0009	name	MONSNAME.DAT@0x44	9B	ブアソ\ン	부아손
+M0010	name	MONSNAME.DAT@0x4E	8B	チスバー	치스바
+M0011	name	MONSNAME.DAT@0x57	12B	コーナメンタ	코너멘타
+M0012	name	MONSNAME.DAT@0x64	8B	デモニオ	데모니오
+M0013	name	MONSNAME.DAT@0x6D	10B	ファンシル	판실
+M0014	name	MONSNAME.DAT@0x78	8B	フェクト	페크트
+M0015	name	MONSNAME.DAT@0x81	12B	グランドルン	그란드룬
+M0016	name	MONSNAME.DAT@0x8E	10B	グリエント	그리엔트
+M0017	name	MONSNAME.DAT@0x99	6B	グリネ	그리네
+M0018	name	MONSNAME.DAT@0xA0	16B	インフェショナー	인페쇼너
+M0019	name	MONSNAME.DAT@0xB1	8B	ジュピタ	주피타
+M0020	name	MONSNAME.DAT@0xBA	8B	カルバス	칼바스
+M0021	name	MONSNAME.DAT@0xC3	8B	カンパリ	캄파리
+M0022	name	MONSNAME.DAT@0xCC	8B	クリビル	크리빌
+M0023	name	MONSNAME.DAT@0xD5	6B	リース	리스
+M0024	name	MONSNAME.DAT@0xDC	10B	マルチラゾ	말티라조
+M0025	name	MONSNAME.DAT@0xE7	6B	マウラ	마우라
+M0026	name	MONSNAME.DAT@0xEE	14B	ムーンブラット	문블랏
+M0027	name	MONSNAME.DAT@0xFD	6B	ナッポ	낫포
+M0028	name	MONSNAME.DAT@0x104	8B	ペンテス	펜테스
+M0029	name	MONSNAME.DAT@0x10D	4B	ペウ	페우
+M0030	name	MONSNAME.DAT@0x112	6B	ピアラ	피아라
+M0031	name	MONSNAME.DAT@0x119	6B	ポラム	폴람
+M0032	name	MONSNAME.DAT@0x120	14B	サンタマリネス	산타마리네스
+M0033	name	MONSNAME.DAT@0x12F	8B	シングリ	싱그리
+M0034	name	MONSNAME.DAT@0x138	9B	ソ\バビオ	소바비오
+M0035	name	MONSNAME.DAT@0x142	8B	トロンバ	트롬바
+M0036	name	MONSNAME.DAT@0x14B	6B	トンヌ	톤누
+M0037	name	MONSNAME.DAT@0x152	6B	プロモ	프로모
+H0001	human	HUMAN.DAT@0x0	12B	ﾘｵﾝ･ｱﾍﾞﾝﾁｭｰﾗ	리온 아벤추라
+H0002	human	HUMAN.DAT@0x1E	12B	ﾄﾚﾋﾞｰﾙ･ｴｽﾃﾊﾞ	트레비르 에스테반
+H0003	human	HUMAN.DAT@0x3C	9B	ﾛｳｨｰﾅ･ﾌｪﾛ	로위나 페로
+H0004	human	HUMAN.DAT@0x5A	9B	ｱﾄｽ･ｽﾃﾌｧﾉ	아토스 스테파노
+H0005	human	HUMAN.DAT@0x78	11B	ｶﾞｯﾄﾞ･ｱﾙﾌｫﾝ	가드 알폰
+H0006	human	HUMAN.DAT@0x96	7B	ﾆｺﾛ･ｾｲﾗ	니콜로 세이라
+H0007	human	HUMAN.DAT@0xB4	11B	ｱﾝﾄﾞﾚｱ･ﾊﾑﾘｱ	안드레아 함리아
+H0008	human	HUMAN.DAT@0xD2	11B	ｱﾝｼﾞｪﾘｶ･ﾙｰﾗ	안젤리카 루라
+H0009	human	HUMAN.DAT@0xF0	10B	ﾎﾟﾙﾄｽ･ﾏﾙﾃｨ	포르투스 마르티
+H0010	human	HUMAN.DAT@0x10E	9B	ﾏﾘｱ･ﾄﾞﾘｰｱ	마리아 도리아
+H0011	human	HUMAN.DAT@0x12C	9B	ﾛﾋﾞﾝ･ｴﾃﾙﾅ	로빈 에테르나
+H0012	human	HUMAN.DAT@0x14A	12B	ｼﾞｮｼﾞｱ･ｴｽﾃｨﾅ	조지아 에스티나
+H0013	human	HUMAN.DAT@0x168	9B	ｳｪｰﾊﾞ･ﾌｪﾛ	웨이버 페로
+H0014	human	HUMAN.DAT@0x186	9B	ｶﾐｰﾙ･ｴﾂｫﾗ	카미르 에초라
+H0015	human	HUMAN.DAT@0x1A4	11B	ｾﾗ･ｱﾍﾞﾝﾁｭｰﾗ	세라 아벤추라
+H0016	human	HUMAN.DAT@0x1C2	13B	ﾁｬﾘﾌｫｰ･ｺﾛﾝﾌﾞｽ	차리포 콜럼버스
+H0017	human	HUMAN.DAT@0x1E0	9B	ｾﾍﾞ･ｱﾝﾄﾞﾚ	세베 앙드레
+H0018	human	HUMAN.DAT@0x1FE	10B	ｼﾞｬﾝ･ﾄﾞﾘｰｱ	장 도리아
+H0019	human	HUMAN.DAT@0x21C	10B	ｶﾙﾛｽ･ｽﾃﾌｧﾉ	카를로스 스테파노
+H0020	human	HUMAN.DAT@0x23A	7B	ﾛｲ･ｶﾒｰﾙ	로이 카메르
+H0021	human	HUMAN.DAT@0x258	10B	ﾍﾘｵ･ｷｼﾞｰｵﾙ	헬리오 키지올
+H0022	human	HUMAN.DAT@0x276	10B	ﾏｯｸ･ｱﾝﾄﾞﾚｱ	맥 안드레아
+H0023	human	HUMAN.DAT@0x294	12B	ｱﾝﾄﾞﾚｱ･ｱﾙﾌｫﾝ	안드레아 알폰
+H0024	human	HUMAN.DAT@0x2B2	7B	ﾆｯｸ･ﾛｰﾝ	닉 론
+H0025	human	HUMAN.DAT@0x2D0	9B	ｼﾞｬﾝ･ｴﾃﾙﾅ	장 에테르나
+H0026	human	HUMAN.DAT@0x2EE	14B	ｱﾒﾘｺﾞ･ﾌﾞｪｽﾌﾟｯﾁ	아메리고 베스푸치
+H0027	human	HUMAN.DAT@0x30C	9B	ｴﾙﾅﾝ･ﾄﾘｵｽ	에르난 트리오스
+H0028	human	HUMAN.DAT@0x32A	11B	ｼﾞｮｱﾝ･ﾗｺｽﾃｨ	조안 라코스티
+H0029	human	HUMAN.DAT@0x348	9B	ﾄﾙﾏﾝ･ﾔｾｰﾙ	트루만 야셀
+H0030	human	HUMAN.DAT@0x366	8B	ｱｰﾙ･ﾊｼﾐｰ	아르 하시미
+H0031	human	HUMAN.DAT@0x384	10B	ｳｿﾞﾘﾝ･ﾏﾙｻﾞ	우조린 마르자
+H0032	human	HUMAN.DAT@0x3A2	12B	ﾀﾞﾗﾆｱ･ﾓﾊﾒｯﾄﾞ	다라니아 모하메드
+H0033	human	HUMAN.DAT@0x3C0	10B	ｳｽﾞﾙﾝ･ﾐｹﾞﾙ	우즈룬 미겔
+H0034	human	HUMAN.DAT@0x3DE	9B	ｹﾞﾙﾄ･ﾏｲﾔｰ	게르트 마이어
+H0035	human	HUMAN.DAT@0x3FC	7B	ｼﾞｬﾝ･ｱﾘ	장 알리
+H0036	human	HUMAN.DAT@0x41A	12B	ｱﾚｯｻﾝﾄﾞ･ｳｨﾘｰ	알레산드 윌리
+H0037	human	HUMAN.DAT@0x438	7B	ｶﾗｰ･ﾑﾛﾅ	카라 무로나
+H0038	human	HUMAN.DAT@0x456	8B	ﾋﾟﾘｰ･ﾓﾓｶ	피리 모모카
+H0039	human	HUMAN.DAT@0x474	11B	ﾓﾊﾒｯﾄﾞ･ｳﾙｸﾞ	모하메드 울그
+H0040	human	HUMAN.DAT@0x492	8B	ｽﾃｰﾅ･ﾏﾘｵ	스테나 마리오
+H0041	human	HUMAN.DAT@0x4B0	10B	ﾋｻｯｼｰ･ｺｯｼｰ	히삿시 코시
+H0042	human	HUMAN.DAT@0x4CE	9B	ﾄｰﾏｽ･ﾌｪﾛｱ	토마스 페로아
+H0043	human	HUMAN.DAT@0x4EC	17B	ﾊｲﾚﾃﾞｨｰﾝ･ﾊﾞﾙﾊﾞﾛｯｻ	H.바르바로사
+H0044	human	HUMAN.DAT@0x50A	13B	ﾛﾊﾞｰﾄ･ｴﾄﾞﾜｰﾄﾞ	로버트 에드워드
+H0045	human	HUMAN.DAT@0x528	13B	ｼﾞｮｰｼﾞ･ｽﾃﾌｧｰﾉ	조지 스테파노
+H0046	human	HUMAN.DAT@0x546	12B	ｱﾝﾄﾞﾚｱ･ﾄﾞｰﾘｱ	안드레아 도리아
+H0047	human	HUMAN.DAT@0x564	12B	ｴｽﾃﾊﾞﾝ･ｴﾗﾝﾂｫ	에스테반 에란초
+H0048	human	HUMAN.DAT@0x582	9B	ｴﾙﾅｽ･ｶｽﾄﾛ	엘나스 카스트로
+H0049	human	HUMAN.DAT@0x5A0	10B	ｼﾞｮｱﾝ･ｴﾝﾘｹ	조안 엔리케
+H0050	human	HUMAN.DAT@0x5BE	9B	ｶﾎﾞｯﾄ･ﾗｲｱ	카보트 라이아
+H0051	human	HUMAN.DAT@0x5DC	8B	ｶﾌﾞﾗﾙ･ﾚﾀ	카브랄 레타
+H0052	human	HUMAN.DAT@0x5FA	12B	ｼﾞｮｼﾞ･ﾊﾞﾙﾎﾞｱ	조르주 발보아
+H0053	human	HUMAN.DAT@0x618	8B	ﾙｲｽ･ﾊｰﾏﾝ	루이스 하먼
+H0054	human	HUMAN.DAT@0x62A	6B	}㈹Ｊz	}㈹Ｊz
+H0055	human	HUMAN.DAT@0x636	8B	ﾏﾆｴﾙ･ﾛﾒｵ	마니엘 로메오
+H0056	human	HUMAN.DAT@0x654	9B	ﾘｶﾞ･ﾛｰﾝｽﾞ	리가 론즈
+H0057	human	HUMAN.DAT@0x672	12B	ｳﾞｧｽｺ･ﾀﾞ･ｶﾞﾏ	바스코 다 가마
+H0058	human	HUMAN.DAT@0x690	13B	ﾊﾞﾙﾄﾛﾒｳ･ﾃﾞｨｱｽ	바르톨로뮤 디아스
+H0059	human	HUMAN.DAT@0x6A2	5B	㎏穆x	㎏穆x
+H0060	human	HUMAN.DAT@0x6AE	12B	ﾏｾﾞﾗﾝ･ﾊﾞﾙﾎﾞｱ	마젤란 발보아
+H0061	human	HUMAN.DAT@0x6C0	6B	x撃㊦s	x撃㊦s
+H0062	human	HUMAN.DAT@0x6CC	10B	ｼﾞｮｾﾌ･ﾄﾞﾛﾝ	조제프 드론
+H0063	human	HUMAN.DAT@0x6DE	6B	№廃則	№廃則
+H0064	human	HUMAN.DAT@0x6EA	9B	ｶﾙﾛｽ･ﾋﾟﾝﾄ	카를로스 핀트
+H0065	human	HUMAN.DAT@0x6FC	5B	ｑ}撃	ｑ}撃
+H0066	human	HUMAN.DAT@0x708	8B	ｱﾝﾅ･ﾌｴﾚﾗ	안나 풰레라
+H0067	human	HUMAN.DAT@0x71A	5B	桝s喧	桝s喧
+H0068	human	HUMAN.DAT@0x726	9B	ﾔｺﾌﾞ･ｾｰﾙｿ	야코브 세르소
+H0069	human	HUMAN.DAT@0x738	6B	走倦挿	走倦挿
+H0070	human	HUMAN.DAT@0x744	11B	ﾌﾗﾝｼｽｺ･ﾐｴｰﾙ	프란시스코 미에르
+H0071	human	HUMAN.DAT@0x762	8B	ﾏｯｸｽ･ｱﾛﾝ	맥스 아론
+H0072	human	HUMAN.DAT@0x774	6B	荘荘荘	荘荘荘
+H0073	human	HUMAN.DAT@0x780	11B	ﾏﾘｱ･ｴﾄﾞﾜｰﾄﾞ	마리아 에드워드
+H0074	human	HUMAN.DAT@0x79E	9B	ﾄｰﾏｽ･ﾊｲﾔｰ	토마스 하이어
+H0075	human	HUMAN.DAT@0x7BC	12B	ﾗﾙﾌﾙ･ｴﾄﾞﾜｰﾄﾞ	랄프 에드워드
+H0076	human	HUMAN.DAT@0x7CE	6B	憲荘迎	憲荘迎
+H0077	human	HUMAN.DAT@0x7DA	10B	ｷｬﾋﾞﾝ･ﾄﾚﾔｰ	캐빈 트레이어
+H0078	human	HUMAN.DAT@0x7F8	9B	ﾅﾀﾘ･ﾌｫﾝｽﾘ	나탈리 폰슬리
+H0079	human	HUMAN.DAT@0x80A	6B	蔓桝膜	蔓桝膜
+H0080	human	HUMAN.DAT@0x816	12B	ﾌﾗﾝｼｽｺ･ｵｰﾘﾄﾞ	프란시스코 오리드
+H0081	human	HUMAN.DAT@0x828	5B	ｌｪ膜	ｌｪ膜
+H0082	human	HUMAN.DAT@0x834	11B	ｼﾞｮｼﾞｱ･ｹﾞﾙﾄ	조지아 게르트
+H0083	human	HUMAN.DAT@0x846	4B	岷血	岷血
+H0084	human	HUMAN.DAT@0x852	7B	ｱﾗﾝ･ﾄﾛｲ	알란 트로이
+H0085	human	HUMAN.DAT@0x864	6B	蓑蔓･}	蓑蔓･}
+H0086	human	HUMAN.DAT@0x870	9B	ﾗｲﾝ･ﾊﾞｯｸｽ	라인 박스
+H0087	human	HUMAN.DAT@0x882	6B	x･ｪ･挿	x･ｪ･挿
+H0088	human	HUMAN.DAT@0x88E	8B	ﾓﾘｽ･ｽｺｯﾄ	모리스 스콧
+H0089	human	HUMAN.DAT@0x8AC	12B	ﾘﾁｬｰﾄﾞ･ﾛｰﾚﾝｽ	리처드 로렌스
+H0090	human	HUMAN.DAT@0x8BF	3B	ｪｹｯ	ｪｹｯ
+H0091	human	HUMAN.DAT@0x8CA	13B	ｼﾙﾋﾞｱ･ﾍﾌﾟﾊﾞｰﾝ	실비아 헵번
+H0092	human	HUMAN.DAT@0x8E8	11B	ｼﾞｮｾﾞﾌ･ﾏｲﾔｰ	요제프 마이어
+H0093	human	HUMAN.DAT@0x8FB	5B	･ｯｹｯ}	･ｯｹｯ}
+H0094	human	HUMAN.DAT@0x901	4B	､ｹ	､ｹ
+H0095	human	HUMAN.DAT@0x906	10B	ｼﾞｮｱﾝ･ｸﾘｴﾔ	조안 크리에
+H0096	human	HUMAN.DAT@0x918	6B	ｪｪｪｪｪｪ	ｪｪｪｪｪｪ
+H0097	human	HUMAN.DAT@0x924	7B	ﾙｲ･ｺｯﾄﾝ	루이 코튼
+H0098	human	HUMAN.DAT@0x942	8B	ﾏﾘｵ･ﾛﾍﾟｽ	마리오 로페스
+H0099	human	HUMAN.DAT@0x954	6B	ｹｾﾈ源ｪ	ｹｾﾈ源ｪ
+H0100	human	HUMAN.DAT@0x95B	4B	､･##	､･##
+H0101	human	HUMAN.DAT@0x960	8B	ﾌｰｼﾞｰ･ｹﾝ	후지 켄
+H0102	human	HUMAN.DAT@0x973	3B	dｴｾ	dｴｾ
+H0103	human	HUMAN.DAT@0x97E	11B	ｼﾞｬﾝ･ﾗｲﾃﾞｨﾝ	장 라이딘
+H0104	human	HUMAN.DAT@0x990	6B	ｹﾍ･ｯｹｹ	ｹﾍ･ｯｹｹ
+H0105	human	HUMAN.DAT@0x99C	9B	ｴﾚｰﾇ･ｼｬﾙﾙ	엘렌 샤를
+H0106	human	HUMAN.DAT@0x9AE	6B	ｾﾒﾈﾃﾈｪ	ｾﾒﾈﾃﾈｪ
+H0107	human	HUMAN.DAT@0x9BA	8B	ｳｲﾘｰ･ﾔﾔﾝ	윌리 야얀
+H0108	human	HUMAN.DAT@0x9CC	6B	ｶﾃﾐｾ･ﾗ	ｶﾃﾐｾ･ﾗ
+H0109	human	HUMAN.DAT@0x9D8	8B	ｺﾘﾔ･ﾏﾏｵｽ	코리야 마마오스
+H0110	human	HUMAN.DAT@0x9EA	6B	睿ｹﾃﾍｯ	睿ｹﾃﾍｯ
+H0111	human	HUMAN.DAT@0x9F6	8B	ｳｵｷﾙ･ﾌﾚﾔ	우오킬 프레야
+H0112	human	HUMAN.DAT@0xA08	6B	ﾒﾜﾒﾃﾈｾ	ﾒﾜﾒﾃﾈｾ
+H0113	human	HUMAN.DAT@0xA14	14B	ｳｰﾙｼﾞ･ﾊﾞﾙﾊﾞﾛｯｻ	우르지 바르바로사
+H0114	human	HUMAN.DAT@0xA32	8B	ﾗｻﾞﾆ･ﾐｰﾙ	라자니 미르
+H0115	human	HUMAN.DAT@0xA44	6B	雫ｶ･膜	雫ｶ･膜
+H0116	human	HUMAN.DAT@0xA50	8B	ｳｴｽ･ｻﾑﾘﾝ	우에스 삼린
+H0117	human	HUMAN.DAT@0xA63	5B	ﾗｪｸ國	ﾗｪｸ國
+H0118	human	HUMAN.DAT@0xA6E	10B	ﾗﾌｫﾚ･ｻﾌｧｲﾔ	라포레 사파이어
+H0119	human	HUMAN.DAT@0xA80	6B	垓ｴﾍｧｪ	垓ｴﾍｧｪ
+H0120	human	HUMAN.DAT@0xA8C	8B	ﾐｯﾄﾞ･ｻｻﾔ	미드 사사야
+H0121	human	HUMAN.DAT@0xAAA	9B	ｼﾙﾊﾞｰ･ﾚｲｽ	실버 레이스
+H0122	human	HUMAN.DAT@0xAC8	12B	ﾌｧﾙ･ｱﾍﾞﾝﾁｭｰﾗ	팔 아벤추라
+H0123	human	HUMAN.DAT@0xAE6	7B	ﾃｨﾅ･ﾚｲｽ	티나 레이스
+H0124	human	HUMAN.DAT@0xB04	14B	ｱﾚｯｻﾝﾄﾞ･ﾊﾞｰｼﾞﾝ	알레산드 버진
+H0125	human	HUMAN.DAT@0xB1D	4B	ﾐﾃ+4	ﾐﾃ+4
+H0126	human	HUMAN.DAT@0xB22	10B	ｴﾃﾞｺﾞ･ﾌｧﾐﾛ	에데고 파미로
+H0127	human	HUMAN.DAT@0xB36	4B	ｹｬﾈｯ	ｹｬﾈｯ
+H0128	human	HUMAN.DAT@0xB40	10B	ｼｭﾚｰﾀｰ･ﾅｲﾌ	슈레이터 나이프
+H0129	human	HUMAN.DAT@0xB52	6B	ｴﾒﾃﾖｲﾈ	ｴﾒﾃﾖｲﾈ
+H0130	human	HUMAN.DAT@0xB59	4B	ﾌﾅ*,	ﾌﾅ*,
+H0131	human	HUMAN.DAT@0xB5E	11B	ﾌﾞﾊﾞｯﾀ･ｳｯﾄﾞ	부하타 우드
+H0132	human	HUMAN.DAT@0xB71	2B	ｹﾒ	ｹﾒ
+H0133	human	HUMAN.DAT@0xB77	4B	ﾂｯ'+	ﾂｯ'+
+I0001	item	ITEM.DAT@0x0	16B	ｸﾞﾚｰﾄｿｰﾄﾞ　  + 9	그레이트소드　  + 9
+I0002	item	ITEM.DAT@0x20	16B	ﾚｲﾋﾟｱ　　　　+ 6	레이피어　　　　+ 6
+I0003	item	ITEM.DAT@0x40	16B	ｻｰﾍﾞﾙ　　　　+ 1	사브르　　　　+ 1
+I0004	item	ITEM.DAT@0x60	16B	ｼﾐﾀｰ　　　　 + 2	시미터　　　　 + 2
+I0005	item	ITEM.DAT@0x80	16B	ｸﾞﾗﾃﾞｨｳｽ　　 +14	글라디우스　　 +14
+I0006	item	ITEM.DAT@0xA0	16B	ｼﾙﾊﾞｰｿｰﾄﾞ　  +19	실버 소드　  +19
+I0007	item	ITEM.DAT@0xBA	2B	ｳｰ	ｳｰ
+I0008	item	ITEM.DAT@0xC0	16B	ｺﾞｰﾙﾄﾞｿｰﾄﾞ　 +24	골드 소드　 +24
+I0009	item	ITEM.DAT@0xE0	16B	ｾﾝﾄｿｰﾄﾞ　　  +30	센트 소드　　  +30
+I0010	item	ITEM.DAT@0x100	16B	ﾚｻﾞｰｱｰﾏｰ　   + 6	레더 아머　   + 6
+I0011	item	ITEM.DAT@0x120	16B	ﾁｪｲﾝﾒｲﾙ　    + 9	체인 메일　    + 9
+I0012	item	ITEM.DAT@0x140	16B	ｼﾙﾊﾞｰｱｰﾏｰ    +18	실버 아머    +18
+I0013	item	ITEM.DAT@0x15A	2B	ﾚﾀ	ﾚﾀ
+I0014	item	ITEM.DAT@0x160	16B	ﾌﾟﾚｲﾄﾒｲﾙ　   +22	플레이트메일　   +22
+I0015	item	ITEM.DAT@0x180	16B	ﾏｼﾞｯｸﾒｲﾙ　   +24	매직 메일　   +24
+I0016	item	ITEM.DAT@0x1A0	16B	ｾﾝﾄｱｰﾏｰ　    +30	센트 아머　    +30
+I0017	item	ITEM.DAT@0x1C0	16B	ｳｯﾄﾞｼｰﾙﾄﾞ　  + 3	우드 실드　  + 3
+I0018	item	ITEM.DAT@0x1E0	16B	ﾚｻﾞｰｼｰﾙﾄﾞ　  + 5	레더 실드　  + 5
+I0019	item	ITEM.DAT@0x200	16B	ｽｹｰﾙｼｰﾙﾄﾞ　  +10	스케일 실드　  +10
+I0020	item	ITEM.DAT@0x220	16B	ｼﾙﾊﾞｰｼｰﾙﾄﾞ   +15	실버 실드   +15
+I0021	item	ITEM.DAT@0x240	16B	ﾊﾟﾜｰｼｰﾙﾄﾞ　  +22	파워 실드　  +22
+I0022	item	ITEM.DAT@0x260	16B	ｾﾝﾄｼｰﾙﾄﾞ　   +30	센트 실드　   +30
+I0023	item	ITEM.DAT@0x280	16B	ｳｨﾝｸﾞの短銃  +15	윙 단총  +15
+I0024	item	ITEM.DAT@0x2A0	16B	ﾄﾞﾗｺﾞﾝｽﾋﾟｱ　 +10	드래곤스피어　 +10
+I0025	item	ITEM.DAT@0x2C0	16B	ｺﾞｰﾙﾄﾞﾎﾞｰｶﾞﾝ +20	골드 보우건 +20
+I0026	item	ITEM.DAT@0x2E0	10B	復活の指輪	부활의 반지
+I0027	item	ITEM.DAT@0x300	12B	リフェの指輪	리페의 반지
+I0028	item	ITEM.DAT@0x320	14B	ベリフェの指輪	베리페의 반지
+I0029	item	ITEM.DAT@0x340	14B	リフェマの指輪	리페마의 반지
+I0030	item	ITEM.DAT@0x360	16B	ベリフェマの指輪	베리페마의 반지
+I0031	item	ITEM.DAT@0x380	8B	炎の指輪	불꽃의 반지
+I0032	item	ITEM.DAT@0x3A0	8B	水の指輪	물의 반지
+I0033	item	ITEM.DAT@0x3C0	8B	風の指輪	바람의 반지
+I0034	item	ITEM.DAT@0x3E0	10B	爆発の指輪	폭발의 반지
+I0035	item	ITEM.DAT@0x400	10B	雷電の指輪	뇌전의 반지
+I0036	item	ITEM.DAT@0x420	8B	光の指輪	빛의 반지
+I0037	item	ITEM.DAT@0x440	6B	神秘草	신비초
+I0038	item	ITEM.DAT@0x4A0	12B	ひすいのつぼ	비취 단지
+I0039	item	ITEM.DAT@0x4C0	12B	金のブローチ	금 브로치
+I0040	item	ITEM.DAT@0x4E0	14B	金のネックレス	금 목걸이
+I0041	item	ITEM.DAT@0x500	16B	真珠のネックレス	진주 목걸이
+I0042	item	ITEM.DAT@0x520	12B	ひすいの花瓶	비취 꽃병
+I0043	item	ITEM.DAT@0x540	10B	黄金のつぼ	황금 단지
+I0044	item	ITEM.DAT@0x560	10B	水晶の花瓶	수정 꽃병
+I0045	item	ITEM.DAT@0x580	10B	セントの杖	센트의 지팡이
+I0046	item	ITEM.DAT@0x5A0	12B	黄金の十字架	황금 십자가
+I0047	item	ITEM.DAT@0x5C0	4B	金塊	금덩이
+I0048	item	ITEM.DAT@0x5E0	12B	銀のブローチ	은 브로치
+I0049	item	ITEM.DAT@0x600	14B	銀のネックレス	은 목걸이
+I0050	item	ITEM.DAT@0x620	6B	金時計	금시계
+I0051	item	ITEM.DAT@0x63A	2B	ﾔﾀ	ﾔﾀ
+I0052	item	ITEM.DAT@0x640	16B	金のブレスレット	금 팔찌
+I0053	item	ITEM.DAT@0x660	12B	インカの王冠	잉카의 왕관
+X0001	exe	0.BIN@0x94	7B	ﾚ?ﾑ@f灘	ﾚ?ﾑ@f灘
+X0002	exe	0.BIN@0x734	16B	ＮＥＷ　ＧＡＭＥ	ＮＥＷ　ＧＡＭＥ
+X0003	exe	0.BIN@0x748	16B	ＣＯＮＴＩＮＵＥ	ＣＯＮＴＩＮＵＥ
+X0004	exe	0.BIN@0x798	30B	あなたの名前を入力してください	당신의 이름을 입력해 주세요
+X0005	exe	0.BIN@0x12E0	12B	ﾘｵﾝ･ｱﾍﾞﾝﾁｭｰﾗ	리온 아벤추라
+X0006	exe	0.BIN@0x1300	10B	ﾋﾞｰﾙ･ｴｽﾃﾊﾞ	트레비르 에스테반
+X0007	exe	0.BIN@0x131C	10B	バラーボ号	바라보호
+X0008	exe	0.BIN@0x166C	32B	リオン達は餓死してしまった・・・	리온 일행은 굶어 죽고 말았다・・・
+X0009	exe	0.BIN@0x1690	12B	が沈没した！	이(가) 침몰했다!
+X0010	exe	0.BIN@0x16A0	6B	しかし	그러나
+X0011	exe	0.BIN@0x16A8	18B	は奇跡的に助かった	은(는) 기적적으로 살아남았다
+X0012	exe	0.BIN@0x31A3	5B	瑠=ﾑ;	瑠=ﾑ;
+X0013	exe	0.BIN@0x513A	12B	鵜海賊の旗艦	해적 기함
+X0014	exe	0.BIN@0x5148	6B	海賊船	해적선
+X0015	exe	0.BIN@0x5BC8	14B	港を発見した！	항구를 발견했다!
+X0016	exe	0.BIN@0x5D12	8B	ｰрﾍ　い	ｰрﾍ　い
+X0017	exe	0.BIN@0x5D1C	6B	いいえ	아니오
+X0018	exe	0.BIN@0x5D24	16B	に入港しますか？	에 입항하시겠습니까?
+X0019	exe	0.BIN@0x5D3A	11B	/ｦ/ｶ/ﾆO"羣C	/ｦ/ｶ/ﾆO"羣C
+X0020	exe	0.BIN@0x7680	6B	食料：	식량：
+X0021	exe	0.BIN@0x7AA8	42B	給料が払えなかった　リオンの魅力が下がった	급료를 지불하지 못했다　리온의 매력이 떨어졌다
+X0022	exe	0.BIN@0x7AD4	18B	Ｇの給料を支払った	Ｇ의 급료를 지불했다
+X0023	exe	0.BIN@0x7C2A	5B	ﾈ ;毀	ﾈ ;毀
+X0024	exe	0.BIN@0x7DC4	10B	 逃 げ る 	 도 망 
+X0025	exe	0.BIN@0x7DDC	10B	 散開しろ 	 산 개 
+X0026	exe	0.BIN@0x7DE8	10B	旗艦を狙え	기함을 노려라
+X0027	exe	0.BIN@0x7DF4	10B	命令させろ	명령하게 해라
+X0028	exe	0.BIN@0x7E20	8B	一騎打ち	일기토
+X0029	exe	0.BIN@0x7E34	7B	 接近戦	 접근전
+X0030	exe	0.BIN@0x7E4C	6B	いいえ	아니오
+X0031	exe	0.BIN@0x7E54	6B	は　い	예
+X0032	exe	0.BIN@0x8050	18B	に命令してください	에게 명령해 주세요
+X0033	exe	0.BIN@0x8064	6B	提督：	제독：
+X0034	exe	0.BIN@0x806C	46B	船名　　　　　　　水夫　耐久　推進　旋回　弾薬	선명　　　　　　　선원　내구　추진　선회　탄약
+X0035	exe	0.BIN@0x809C	46B	船種　　　　　　　水夫　耐久　推進　旋回　弾薬	선종　　　　　　　선원　내구　추진　선회　탄약
+X0036	exe	0.BIN@0x80CC	12B	残り行動力：	잔여 행동력：
+X0037	exe	0.BIN@0x80DC	24B	どの船の情報を見ますか？	어느 배의 정보를 보시겠습니까?
+X0038	exe	0.BIN@0x80F8	16B	大砲がありません	대포가 없습니다
+X0039	exe	0.BIN@0x810C	16B	弾薬がありません	탄약이 없습니다
+X0040	exe	0.BIN@0x8128	16B	よろしいですか？	괜찮겠습니까?
+X0041	exe	0.BIN@0x8148	30B	リオンは一騎打ちにもちこんだ！	리온은 일기토로 끌고 갔다!
+X0042	exe	0.BIN@0x8168	26B	リオン達は海賊に勝利した！	리온 일행은 해적에게 승리했다!

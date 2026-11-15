@@ -1,0 +1,236 @@
+id	종류	위치	예산	JP	KO
+X0394	exe	0.BIN@0x3CDC1	8B	カタカナ	한글２
+X0395	exe	0.BIN@0x3CDCA	8B	英数字　	영숫자　
+X0396	exe	0.BIN@0x3D316	4B	ﾑu籍	ﾑu籍
+X0397	exe	0.BIN@0x3D31E	4B	ﾑt析	ﾑt析
+X0398	exe	0.BIN@0x3D328	4B	ﾑs惜	ﾑs惜
+X0399	exe	0.BIN@0x3D332	4B	ﾑs税	ﾑs税
+X0400	exe	0.BIN@0x3D33C	4B	ﾑq醒	ﾑq醒
+X0401	exe	0.BIN@0x3D53E	10B	籌ﾀﾞｲﾎﾞｰｹﾝ	대모험
+X0402	exe	0.BIN@0x3EDA0	7B	 戻　る	 돌아가기
+X0403	exe	0.BIN@0x3EDA8	7B	 写　す	 복사
+X0404	exe	0.BIN@0x3EDB0	7B	 消　す	 삭제
+X0405	exe	0.BIN@0x3EDC4	24B	空き容量が　　　必要です	빈 용량이　　　필요합니다
+X0406	exe	0.BIN@0x3F28C	32B	　　　　の全ての記録を消しました	　　　　의 모든 기록을 지웠습니다
+X0407	exe	0.BIN@0x3F2B0	24B	　　　（初期化しました）	　　　（초기화했습니다）
+X0408	exe	0.BIN@0x3F2D0	32B	　　　　の全ての記録を消すことが	　　　　의 모든 기록을 지울 수
+X0409	exe	0.BIN@0x3F2F4	16B	できませんでした	없었습니다
+X0410	exe	0.BIN@0x3F308	28B	保存データ管理画面で全部消す	저장 데이터 관리 화면에서 전부 지우기
+X0411	exe	0.BIN@0x3F328	26B	（初期化）を選んでください	（초기화）를 선택해 주세요
+X0412	exe	0.BIN@0x3F370	8B	ｶｰﾄﾘｯｼﾞ 	카트리지 
+X0413	exe	0.BIN@0x3F574	8B	記録　：	기록　：
+X0414	exe	0.BIN@0x3F580	6B	１２３	１２３
+X0415	exe	0.BIN@0x3F590	16B	記録がありません	기록이 없습니다
+X0416	exe	0.BIN@0x3F5A4	24B	この記録は使用できません	이 기록은 사용할 수 없습니다
+X0417	exe	0.BIN@0x3F7E8	24B	今までの経過を記録します	지금까지의 경과를 기록합니다
+X0418	exe	0.BIN@0x3F804	28B	記録する箇所を選んでください	기록할 곳을 선택해 주세요
+X0419	exe	0.BIN@0x3F824	22B	どの記録で始めますか？	어느 기록으로 시작하시겠습니까?
+X0420	exe	0.BIN@0x3F84C	16B	記録を複写します	기록을 복사합니다
+X0421	exe	0.BIN@0x3F860	22B	複写元を選んでください	복사할 원본을 선택해 주세요
+X0422	exe	0.BIN@0x3F878	18B	記録　を複写します	기록　을 복사합니다
+X0423	exe	0.BIN@0x3F88C	22B	複写先を選んでください	복사할 위치를 선택해 주세요
+X0424	exe	0.BIN@0x3F8A4	14B	記録を消します	기록을 지웁니다
+X0425	exe	0.BIN@0x3F8B4	28B	消したい記録を選んでください	지우고 싶은 기록을 선택해 주세요
+X0426	exe	0.BIN@0x3F8D4	20B	空き容量が足りません	빈 용량이 부족합니다
+X0427	exe	0.BIN@0x3F8EC	24B	残念ながら記録できません	안타깝게도 기록할 수 없습니다
+X0428	exe	0.BIN@0x3F908	12B	記録しました	기록했습니다
+X0429	exe	0.BIN@0x3F91C	22B	Ｇｏｏｄ　Ｌｕｃｋ！！	행운을 빕니다!!
+X0430	exe	0.BIN@0x3F934	12B	複写しました	복사했습니다
+X0431	exe	0.BIN@0x3F944	18B	記録を消去しました	기록을 삭제했습니다
+X0432	exe	0.BIN@0x3F958	26B	正しく記録できませんでした	제대로 기록하지 못했습니다
+X0433	exe	0.BIN@0x3F974	26B	もう一度やり直してください	다시 한 번 시도해 주세요
+X0434	exe	0.BIN@0x3F990	24B	別の記録を使ってください	다른 기록을 사용해 주세요
+X0435	exe	0.BIN@0x3F9AC	26B	正しく複写できませんでした	제대로 복사하지 못했습니다
+X0436	exe	0.BIN@0x3F9C8	20B	消去できませんでした	삭제하지 못했습니다
+X0437	exe	0.BIN@0x3F9E0	32B	記録　を更新してもよろしいですか	기록　을 갱신하시겠습니까
+X0438	exe	0.BIN@0x3FA04	30B	記録　を消してもよろしいですか	기록　을 지우시겠습니까
+X0439	exe	0.BIN@0x3FA9C	20B	　は　い　　　いいえ	　예　　　아니오
+X0440	exe	0.BIN@0x3FAB6	15B	/ｦ/ｶ/ﾆ/ﾖ/覦"羸C	/ｦ/ｶ/ﾆ/ﾖ/覦"羸C
+X0441	exe	0.BIN@0x3FB42	5B	ﾑ&1ｬA	ﾑ&1ｬA
+X0442	exe	0.BIN@0x3FD28	8B	その他　	기타　
+X0443	exe	0.BIN@0x3FD40	36B	　バックアップの準備ができていません	　백업 준비가 되어 있지 않습니다
+X0444	exe	0.BIN@0x3FD68	38B	  　　　　ＲＡＭの全ての記録を消しても	　　　　RAM의 모든 기록을 지워도
+X0445	exe	0.BIN@0x3FD90	28B	　よろしいですか？（初期化）	　괜찮습니까?（초기화）
+X0446	exe	0.BIN@0x3FDB0	32B	　　　　　ＲＡＭをセガサターンの	　　　　　RAM을 세가 새턴의
+X0447	exe	0.BIN@0x3FDD4	34B	　保存データ管理画面で全ての記録を	　저장 데이터 관리 화면에서 모든 기록을
+X0448	exe	0.BIN@0x3FDF8	26B	　消してください（初期化）	　지워 주세요（초기화）
+X0449	exe	0.BIN@0x3FE14	32B	　記録するための容量がたりません	　기록할 용량이 부족합니다
+X0450	exe	0.BIN@0x3FE38	28B	　記録することができませんが	　기록할 수 없습니다만
+X0451	exe	0.BIN@0x3FE58	22B	　ゲームを始めますか？	　게임을 시작하시겠습니까?
+X0452	exe	0.BIN@0x3FE70	36B	　記録をするには保存データ管理画面で	　기록하려면 저장 데이터 관리 화면에서
+X0453	exe	0.BIN@0x3FE98	34B	　最低２５の空き容量を確保してから	　최소 ２５의 빈 용량을 확보한 후
+X0454	exe	0.BIN@0x3FEBC	18B	　起動してください	　실행해 주세요
+X0455	exe	0.BIN@0x3FF0C	8B	は　　い	예
+X0456	exe	0.BIN@0x3FF18	8B	い い え	아니오
+X0457	exe	0.BIN@0x402EC	42B	使用するバックアップＲＡＭを選んでください	사용할 백업 RAM을 선택해 주세요
+X0458	exe	0.BIN@0x40318	22B	どちらを使用しますか？	어느 쪽을 사용하시겠습니까?
+X0459	exe	0.BIN@0x4033C	14B	本　体　ＲＡＭ	본　체　RAM
+X0460	exe	0.BIN@0x4034C	14B	ｶｰﾄﾘｯｼﾞ ＲＡＭ	카트리지 RAM
+X0461	exe	0.BIN@0x40360	13B	/ｦ/ｶ/ﾆ/ﾖO"羮C	/ｦ/ｶ/ﾆ/ﾖO"羮C
+X0462	exe	0.BIN@0x40FD0	9B	zR門吝g灘	zR門吝g灘
+X0463	exe	0.BIN@0x4104C	5B	gｳf灘	gｳf灘
+X0464	exe	0.BIN@0x41850	7B	/ｦ有f灘	/ｦ有f灘
+X0465	exe	0.BIN@0x4441C	36B	このテクスチャーは既に使われています	이 텍스처는 이미 사용 중입니다
+X0466	exe	0.BIN@0x44444	30B	メモリーが確保できませんでした	메모리를 확보하지 못했습니다
+X0467	exe	0.BIN@0x457EC	11B	/ｦ/ｶ/ﾆO"罨C	/ｦ/ｶ/ﾆO"罨C
+X0468	exe	0.BIN@0x45AD4	13B	/ｦ/ｶ/ﾆ/ﾖO"繻C	/ｦ/ｶ/ﾆ/ﾖO"繻C
+X0469	exe	0.BIN@0x46E80	10B	エラー！！	에러!!
+X0470	exe	0.BIN@0x470C0	11B	/&gｲf｢e壇や	/&gｲf｢e壇や
+X0471	exe	0.BIN@0x47B4C	5B	gデ灘	gデ灘
+X0472	exe	0.BIN@0x47B5C	7B	/&gデ灘	/&gデ灘
+X0473	exe	0.BIN@0x48922	28B	ﾙﾄCPK system is not running.	CPK system is not running.
+X0474	exe	0.BIN@0x49326	6B	ﾉ炉ILM	ﾉ炉ILM
+X0475	exe	0.BIN@0x4DD76	3B	ﾃ違	ﾃ違
+X0476	exe	0.BIN@0x4DE18	6B	eチグ&	eチグ&
+X0477	exe	0.BIN@0x52548	10B	/ｦO"ﾚNb｢嵩	/ｦO"ﾚNb｢嵩
+X0478	exe	0.BIN@0x5273D	7B	vﾘ!aｐ<	vﾘ!aｐ<
+X0479	exe	0.BIN@0x52BD4	6B	dチグ&	dチグ&
+X0480	exe	0.BIN@0x5524E	5B	dヂ偵	dヂ偵
+X0481	exe	0.BIN@0x57BA6	5B	QﾓRﾔB	QﾓRﾔB
+X0482	exe	0.BIN@0x596B4	7B	e絣絛矣	e絣絛矣
+X0483	exe	0.BIN@0x60348	10B	シップ　　	십　　
+X0484	exe	0.BIN@0x60361	13B	6蕫バーク　　	바크　　
+X0485	exe	0.BIN@0x60380	10B	ブリガンチ	브리간틴
+X0486	exe	0.BIN@0x60399	13B	!詑トップスル	톱슬
+X0487	exe	0.BIN@0x603B8	10B	スクーナー	스쿠너
+X0488	exe	0.BIN@0x603D2	12B	ﾈ焜宴eィーン	ﾈ焜宴eィーン
+X0489	exe	0.BIN@0x603F0	10B	ケッチ　　	케치　　
+X0490	exe	0.BIN@0x6040C	10B	カッター　	커터　
+X0491	exe	0.BIN@0x60428	10B	トーチカ　	토치카　
+X0492	exe	0.BIN@0x60444	14B	バトルカノン砲	배틀 캐논포
+X0493	exe	0.BIN@0x6045C	14B	カノン砲　　　	캐논포　　　
+X0494	exe	0.BIN@0x60472	16B	鸛キュウ砲　　　	鸛キュウ砲　　　
+X0495	exe	0.BIN@0x6048C	14B	リュダン砲　　	류단포　　
+X0496	exe	0.BIN@0x604A2	16B	廖カルミン砲　　	칼민포　　
+X0497	exe	0.BIN@0x604CC	10B	不死鳥　　	불사조　　
+X0498	exe	0.BIN@0x604EC	10B	ドラゴン　	드래곤　
+X0499	exe	0.BIN@0x604FC	10B	タイガー　	타이거　
+X0500	exe	0.BIN@0x6053C	6B	小麦粉	밀가루
+X0501	exe	0.BIN@0x60572	6B	バター	버터
+X0502	exe	0.BIN@0x60584	6B	チーズ	치즈
+X0503	exe	0.BIN@0x60596	10B	ウィスキー	위스키
+X0504	exe	0.BIN@0x605A8	6B	ワイン	와인
+X0505	exe	0.BIN@0x605BA	10B	オリーブ油	올리브유
+X0506	exe	0.BIN@0x605CC	8B	ナツメグ	넛메그
+X0507	exe	0.BIN@0x605DE	8B	シナモン	시나몬
+X0508	exe	0.BIN@0x605F0	8B	ピメント	피멘토
+X0509	exe	0.BIN@0x60602	10B	ジンジャー	생강
+X0510	exe	0.BIN@0x60614	8B	コショウ	후추
+X0511	exe	0.BIN@0x60626	6B	鉄鉱石	철광석
+X0512	exe	0.BIN@0x60638	6B	銅鉱石	구리광석
+X0513	exe	0.BIN@0x6064A	8B	ガラス石	유리석
+X0514	exe	0.BIN@0x60680	8B	コーヒー	커피
+X0515	exe	0.BIN@0x606A4	6B	タバコ	담배
+X0516	exe	0.BIN@0x606B6	6B	カカオ	카카오
+X0517	exe	0.BIN@0x606DA	6B	木の実	견과
+X0518	exe	0.BIN@0x6077C	8B	ベッコウ	대모갑
+X0519	exe	0.BIN@0x6078E	6B	ひすい	비취
+X0520	exe	0.BIN@0x607A0	6B	ルビー	루비
+X0521	exe	0.BIN@0x607B2	10B	サファイア	사파이어
+X0522	exe	0.BIN@0x607C4	12B	ダイヤモンド	다이아몬드
+X0523	exe	0.BIN@0x6080C	10B	ジュウタン	융단
+X0524	exe	0.BIN@0x6081E	6B	金製品	금제품
+X0525	exe	0.BIN@0x60830	6B	銀製品	은제품
+X0526	exe	0.BIN@0x60842	10B	ガラス製品	유리제품
+X0527	exe	0.BIN@0x60854	8B	織物製品	직물제품
+X0528	exe	0.BIN@0x609D0	8B	アラミス	아라미스
+X0529	exe	0.BIN@0x609F2	8B	バルジェ	발제
+X0530	exe	0.BIN@0x60A14	10B	ベンチバブ	벤치밥
+X0531	exe	0.BIN@0x60A25	8B	ベニエン	베니엔
+X0532	exe	0.BIN@0x60A36	6B	ブレロ	브레로
+X0533	exe	0.BIN@0x60A47	8B	ブロピナ	브로피나
+X0534	exe	0.BIN@0x60A58	8B	ブアソン	부아손
+X0535	exe	0.BIN@0x60A69	8B	チスバー	치스바
+X0536	exe	0.BIN@0x60A7A	12B	コーナメンタ	코너멘타
+X0537	exe	0.BIN@0x60A8B	8B	デモニオ	데모니오
+X0538	exe	0.BIN@0x60A9C	10B	ファンシル	판실
+X0539	exe	0.BIN@0x60AAD	8B	フェクト	페크트
+X0540	exe	0.BIN@0x60ABE	12B	グランドルン	그란드룬
+X0541	exe	0.BIN@0x60ACF	10B	グリエント	그리엔트
+X0542	exe	0.BIN@0x60AE0	6B	グリネ	그리네
+X0543	exe	0.BIN@0x60AF1	16B	インフェショナー	인페쇼너
+X0544	exe	0.BIN@0x60B02	8B	ジュピタ	주피타
+X0545	exe	0.BIN@0x60B13	8B	カルバス	칼바스
+X0546	exe	0.BIN@0x60B24	8B	カンパリ	캄파리
+X0547	exe	0.BIN@0x60B35	8B	クリビル	크리빌
+X0548	exe	0.BIN@0x60B46	6B	リース	리스
+X0549	exe	0.BIN@0x60B57	10B	マルチラゾ	말티라조
+X0550	exe	0.BIN@0x60B68	6B	マウラ	마우라
+X0551	exe	0.BIN@0x60B79	14B	ムーンブラット	문블랏
+X0552	exe	0.BIN@0x60B8A	6B	ナッポ	낫포
+X0553	exe	0.BIN@0x60B9B	8B	ペンテス	펜테스
+X0554	exe	0.BIN@0x60BAC	4B	ペウ	페우
+X0555	exe	0.BIN@0x60BCE	6B	ポラム	폴람
+X0556	exe	0.BIN@0x60BDF	14B	ダークビジョン	다크 비전
+X0557	exe	0.BIN@0x60BF0	8B	シングリ	싱그리
+X0558	exe	0.BIN@0x60C01	8B	ソバビオ	소바비오
+X0559	exe	0.BIN@0x60C12	8B	トロンバ	트롬바
+X0560	exe	0.BIN@0x60C34	6B	プロモ	프로모
+X0561	exe	0.BIN@0x60C45	10B	アラミラス	아라미라스
+X0562	exe	0.BIN@0x60C56	8B	アロバラ	아로바라
+X0563	exe	0.BIN@0x60C67	10B	バルジェス	발제스
+X0564	exe	0.BIN@0x60C78	8B	ベルガン	베르간
+X0565	exe	0.BIN@0x60C89	12B	ベンチバンド	벤치밴드
+X0566	exe	0.BIN@0x60C9A	8B	ベニニベ	베니니베
+X0567	exe	0.BIN@0x60CAB	8B	ブレッガ	브레가
+X0568	exe	0.BIN@0x60CBC	8B	ブロピス	브로피스
+X0569	exe	0.BIN@0x60CCD	12B	ブアソビデル	부아소비델
+X0570	exe	0.BIN@0x60CDE	10B	チスバラス	치스바라스
+X0571	exe	0.BIN@0x60CEF	12B	コーナマース	코너마스
+X0572	exe	0.BIN@0x60D00	8B	デモニオ	데모니오
+X0573	exe	0.BIN@0x60D11	10B	ファンサス	판사스
+X0574	exe	0.BIN@0x60D22	10B	フェクタガ	페크타가
+X0575	exe	0.BIN@0x60D33	12B	グランバラン	그란바란
+X0576	exe	0.BIN@0x60D44	12B	グリンテント	그린텐트
+X0577	exe	0.BIN@0x60D55	12B	グリネンユラ	그리넨유라
+X0578	exe	0.BIN@0x60D66	14B	インフェジニム	인페지님
+X0579	exe	0.BIN@0x60D77	10B	ジュピタム	주피타무
+X0580	exe	0.BIN@0x60D88	8B	カルバス	칼바스
+X0581	exe	0.BIN@0x60D99	8B	カンパチ	캄파치
+X0582	exe	0.BIN@0x60DAA	12B	クリビルピル	크리빌필
+X0583	exe	0.BIN@0x60DBB	8B	リーサム	리삼
+X0584	exe	0.BIN@0x60DCC	12B	マルチマカリ	말티마카리
+X0585	exe	0.BIN@0x60DDD	10B	マウマンス	마우만스
+X0586	exe	0.BIN@0x60DEE	14B	ムーンブラット	문블랏
+X0587	exe	0.BIN@0x60DFF	12B	ナッポロベロ	낫포로베로
+X0588	exe	0.BIN@0x60E10	10B	ペンサンテ	펜산테
+X0589	exe	0.BIN@0x60E21	8B	ペウマス	페우마스
+X0590	exe	0.BIN@0x60E32	10B	ピアランカ	피아란카
+X0591	exe	0.BIN@0x60E43	10B	ポラムドム	폴람돔
+X0592	exe	0.BIN@0x60E54	14B	サンタマリネス	산타마리네스
+X0593	exe	0.BIN@0x60E65	12B	シングギッガ	싱기가
+X0594	exe	0.BIN@0x60E76	10B	ソバビラマ	소바비라마
+X0595	exe	0.BIN@0x60E87	12B	トロンバルン	트롬바룬
+X0596	exe	0.BIN@0x60E98	10B	トンヌロス	톤누로스
+X0597	exe	0.BIN@0x60EA9	12B	プロモトール	프로모토르
+X0598	exe	0.BIN@0x60F10	13B	ｰﾙｼﾞ･ﾊﾞﾙﾊﾞﾛｯｻ	우르지바르바로사
+X0599	exe	0.BIN@0x60F20	9B	ｼﾙﾊﾞｰ･ﾚｲｽ	실버 레이스
+X0600	exe	0.BIN@0x60F44	9B	ｼﾞｪﾘｶ･ﾙｰﾗ	안젤리카 루라
+X0601	exe	0.BIN@0x60F64	10B	復活の指輪	부활의 반지
+X0602	exe	0.BIN@0x60F75	12B	リフェの指輪	리페의 반지
+X0603	exe	0.BIN@0x60F86	14B	ベリフェの指輪	베리페의 반지
+X0604	exe	0.BIN@0x60F97	14B	リフェマの指輪	리페마의 반지
+X0605	exe	0.BIN@0x60FA8	16B	ベリフェマの指輪	베리페마의 반지
+X0606	exe	0.BIN@0x60FB9	8B	炎の指輪	불꽃의 반지
+X0607	exe	0.BIN@0x60FCA	8B	水の指輪	물의 반지
+X0608	exe	0.BIN@0x60FDB	8B	風の指輪	바람의 반지
+X0609	exe	0.BIN@0x60FEC	10B	爆発の指輪	폭발의 반지
+X0610	exe	0.BIN@0x60FFD	10B	雷電の指輪	뇌전의 반지
+X0611	exe	0.BIN@0x6100E	8B	光の指輪	빛의 반지
+X0612	exe	0.BIN@0xAB49C	3B	ﾀ矜	ﾀ矜
+X0613	exe	0.BIN@0xB065E	3B	ﾄ鵞	ﾄ鵞
+X0614	exe	0.BIN@0xB07C6	3B	ﾁ準	ﾁ準
+X0615	exe	0.BIN@0xB08B2	3B	ﾁ沃	ﾁ沃
+X0616	exe	0.BIN@0xB0940	12B	`Cﾂｻ`SﾂｼD) M	`Cﾂｻ`SﾂｼD) M
+X0617	exe	0.BIN@0xB094E	14B	ﾂT`Cﾂｽ`SﾂｾD) M	ﾂT`Cﾂｽ`SﾂｾD) M
+X0618	exe	0.BIN@0xB2E5C	10B	ﾁﾐﾔpﾕq貌ｰﾆ	ﾁﾐﾔpﾕq貌ｰﾆ
+X0619	exe	0.BIN@0xB3100	16B	ﾀﾐ珥ﾁﾑ矣ﾂﾒ粐ﾃﾓ聽	ﾀﾐ珥ﾁﾑ矣ﾂﾒ粐ﾃﾓ聽
+X0620	exe	0.BIN@0xB34C8	7B	|ｚ｢嘯|	|ｚ｢嘯|
+X0621	exe	0.BIN@0xB36C0	8B	ｪUｪUｪUｪU	ｪUｪUｪUｪU
+X0622	exe	0.BIN@0xB3F69	5B	ｯbbvﾔ	ｯbbvﾔ
+X0623	exe	0.BIN@0xB48E9	7B	冒ｳO&p$	冒ｳO&p$
+X0624	exe	0.BIN@0xB49A9	7B	冒ｳO&p$	冒ｳO&p$
+X0625	exe	0.BIN@0xB4A6B	7B	描ｳO&p$	描ｳO&p$
+X0626	exe	0.BIN@0xB4D90	4B	ﾒ)濬	ﾒ)濬
+X0627	exe	0.BIN@0xBB932	4B	＿ヽ	＿ヽ
+X0628	exe	0.BIN@0xBB944	10B	ヽ"I`'ヾ`C	ヽ"I`'ヾ`C
